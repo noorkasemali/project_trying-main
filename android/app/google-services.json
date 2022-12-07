@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "710667672375",
+    "project_id": "help-1a72d",
+    "storage_bucket": "help-1a72d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710667672375:android:c48a30436a579f28b318b2",
+        "android_client_info": {
+          "package_name": "com.technion.android.help"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710667672375-si5923fesfuffdaclo8bdu1rb4a83d6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXWNE1-kSFIBUjcY-hef6j6XhJRkaem-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710667672375-si5923fesfuffdaclo8bdu1rb4a83d6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
